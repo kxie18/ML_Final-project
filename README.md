@@ -1,6 +1,8 @@
 # ML_Final-project
 
-# teammates’ GitHub account name: jxu156
+# teammates’ GitHub account name: 
+
+jxu156
 
 # contribution: 
 
