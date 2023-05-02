@@ -36,7 +36,7 @@ python test.py --data_path /PATH/TO/YOUR/FSC147/DATASET/ --test_split val
 
 ##Testing on val split with adaptation
 
-# Other ways to do multiple ways for testing
+## Other ways to do multiple ways for testing
 
 just refer to the report
 
